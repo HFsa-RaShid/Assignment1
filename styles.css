@@ -529,4 +529,14 @@
     width: 100%;
     max-width: 1600px;
 }
-
+.lower-por button{
+    padding: 8px 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.lower-por button:hover{
+    background-color: white;
+    color: black;
+}
