@@ -9,6 +9,7 @@
     max-width: 1600px;
     height: 550px;
     margin: 50px auto;
+    position: relative;
   
 }
 
@@ -17,7 +18,8 @@
     height: 500px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('resources/Banner.png');
     background-size: cover;
-    margin-left: 10%;
+    /* margin-left: 11%; */
+    margin: auto;
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 16px;
@@ -88,7 +90,7 @@
 }
 
 .second-section {
-    width: 82%;
+    width: 82.5%;
     max-width: 1320px;
     height: 500px;
     display: flex;
@@ -213,7 +215,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 0 auto;
-    gap:100px;
+    /* gap: 50px; */
 }
 .fourth-contains{
     width: 300px;
@@ -244,7 +246,6 @@
     height: 300px;
     border-radius: 50%;
     padding: 20px;
-    border: 10px solid red;
 }
 .fourth-info .third-para{
     color: #F00;
@@ -297,6 +298,7 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 32px;
+    
 }
 .one{
     margin-top: 50px;
@@ -330,7 +332,6 @@
     background: #F00;
 }
 .fifth-section{
-    
     width: 82%;
     max-width: 1320px;
     margin: 50px auto;
